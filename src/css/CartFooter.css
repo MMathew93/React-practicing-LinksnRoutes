@@ -1,0 +1,14 @@
+.cartFooter {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 6rem;
+    background-color: #fff;
+    border-top: 1px solid #d1d0d0;
+    text-transform: uppercase;
+    text-align: center;
+}

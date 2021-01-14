@@ -1,0 +1,26 @@
+.navbar {
+    background-color: white !important;
+    color: black;
+}
+
+.MuiAppBar-colorPrimary {
+    background-color: white !important;
+    color: black !important;
+}
+
+.brandHome {
+    font-size: 2rem !important;
+    font-weight: 900 !important;
+    flex: 1;
+    outline: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.fa-shopping-cart  {
+    width: 25px !important;
+    height: 25px !important;
+}

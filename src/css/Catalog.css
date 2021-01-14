@@ -1,0 +1,40 @@
+.product > img {
+    max-width: 400px;
+    max-height: 400px;
+}
+
+.sideNavigation {
+    font-size: 4rem;
+    padding: 1rem;
+    min-width: 400px;
+}
+
+.sideNavigation a:hover{
+    color: dodgerblue;
+}
+
+.MuiGrid-item {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+.productWrapper {
+    margin: 2rem;
+}
+
+.product {
+    margin: 1rem;
+    object-fit: contain;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.product:hover {
+    transform: scale(1.1);
+    transform-origin: center;
+}

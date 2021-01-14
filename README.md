@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Practicing Routes and Links in React
+Simple shopping cart set up to practice Routes and Links in react
 
 ## Available Scripts
 

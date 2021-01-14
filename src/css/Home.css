@@ -1,0 +1,40 @@
+.videoTag {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: .8;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(134, 127, 127);
+    mix-blend-mode: overlay;
+}
+
+.centerpiece {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.brand {
+    font-size: 7rem;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+.shopButton {
+    background-color: black !important;
+    color: white !important;
+    font-size: 1.5rem !important;
+}
